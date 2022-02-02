@@ -1,5 +1,2 @@
-•python/c#/swift(soon) dev. 🐸
-•playing : visual studio code and pcc
-•using: discord
-•Adcm: c++ is creppy 😳
-•Working on a cool game(CarLand)
+
+[![My stats](https://github-readme-stats.vercel.app/api?username=Sank34)](https://github.com/anuraghazra/github-readme-stats)
