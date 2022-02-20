@@ -8,7 +8,7 @@ Hello! I'm sanki. A teen that loves all the stuff about tech and comouter scienc
 Starting from when i was younger,i was wondering how technology works,so i studyed about it,and it becomed my passion.
 
 # How old are you and where are you from?
-Currently,i am 13 years old and i'm originaly from Braila-Romania.
+Currently,i am 14 years old(just got 14) and i'm originaly from Braila-Romania.
 My birthday is on 20 feb.
 
 # How can i contact you?
