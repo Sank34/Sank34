@@ -5,7 +5,7 @@
 Hello! I'm sanki. A teen that loves all the stuff about tech and computer science.I know how to work with Arduino Interface too. Also,i'm interested into music,writing,math,astronomy,robotics.
 
 # How i discovered that i like computer science?
-Starting from when i was younger,i was wondering how technology works,so i studyed about it,and it becomed my passion.
+Starting from when i was younger,i was wondering how technology works,so i studyed about it,and it became my passion.
 
 # How old are you and where are you from?
 Currently,i am 14 years old(just got 14) and i'm originaly from Braila-Romania.
