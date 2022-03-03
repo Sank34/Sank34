@@ -2,7 +2,7 @@
 [![My stats](https://github-readme-stats.vercel.app/api?username=Sank34)](https://github.com/anuraghazra/github-readme-stats)
 
 # Who am i?
-Hello! I'm sanki. A teen that loves all the stuff about tech and computer science.I know how to work with Arduino Interface too. Also,i'm interested into music,writing,math,astronomy,robotics.
+Hello! I'm sanki. A teen that loves all the stuff about tech and computer science.I know how to work with Arduino Interface too. Also,i'm interested into music,writing,math,astronomy,robotics,dance(street dance).
 
 # How i discovered that i like computer science?
 Starting from when i was younger,i was wondering how technology works,so i studyed about it,and it became my passion.
