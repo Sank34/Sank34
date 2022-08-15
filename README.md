@@ -16,4 +16,4 @@ Simple,you can contact me via Discord,or mail.See my profile for these.
 And if you want to,you can join my team's [discord server](https://discord.scienceturles.com).
 
 # Do you have a website?
-Sure! YYou can check it for [yourself](https://scienceturtles.com) :)
+Sure! You can check it for [yourself](https://scienceturtles.com) :)
