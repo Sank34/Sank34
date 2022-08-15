@@ -13,7 +13,7 @@ My birthday is on 20 feb.
 
 # How can i contact you?
 Simple,you can contact me via Discord,or mail.See my profile for these.
-And if you want to,you can join my [discord server](https://discord.gg/FGaRE5Qmbj).
+And if you want to,you can join my team's [discord server](https://discord.scienceturles.com).
 
 # Do you have a website?
 Sure! YYou can check it for [yourself](https://scienceturtles.com) :)
