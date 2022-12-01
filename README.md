@@ -1,19 +1,25 @@
-# My stats on github
-[![My stats](https://github-readme-stats.vercel.app/api?username=Sank34)](https://github.com/anuraghazra/github-readme-stats)
 
-# Who am i?
-Hello! I'm sanki. A teen that loves all the stuff about tech and computer science.I know how to work with Arduino Interface too. Also,i'm interested into music,writing,math,astronomy,robotics,dance(street dance).
+<h1 align="center">Hellu, there! <br> Greetings from Sanke</h1>
+<h3 align="center">A little turtle and his robots. 🤖🐢</h3>
+<img align="right" alt="Coding" width="350" src="https://scienceturtles.com/assests/img/pfp.png">
 
-# How i discovered that i like computer science?
-Starting from when i was younger,i was wondering how technology works,so i studyed about it,and it became my passion.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sank34&label=Profile%20views&color=0e75b6&style=flat" alt="Sank" /> </p>
 
-# How old are you and where are you from?
-Currently,i am 14 years old(just got 14) and i'm originaly from Braila-Romania.
-My birthday is on 20 feb.
 
-# How can i contact you?
-Simple,you can contact me via Discord,or mail.See my profile for these.
-And if you want to,you can join my team's [discord server](https://discord.scienceturles.com).
 
-# Do you have a website?
-Sure! You can check it for [yourself](https://scienceturtles.com) :)
+- 🔭 Live, laugh, love **science.**
+
+- 🤖 Front-end & back-end(kinda) **dev.**
+
+- 🙋‍♂️ Currently in **Highschool.**
+
+- 🙈 Using **arduino.std**
+
+- ⚡ First language: "python"
+
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Sank34" alt="Sank" /></p>
+
+
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sank34&" alt="Sank" /></p>
