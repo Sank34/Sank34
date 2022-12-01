@@ -1,6 +1,5 @@
 
 <h1 align="center">Hellu, there! <br> Greetings from Sanke</h1>
-<h3 align="center">A little turtle and his robots. 🤖🐢</h3>
 <img align="right" alt="Coding" width="350" src="https://scienceturtles.com/assests/img/pfp.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sank34&label=Profile%20views&color=0e75b6&style=flat" alt="Sank" /> </p>
