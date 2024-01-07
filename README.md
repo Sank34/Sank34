@@ -8,7 +8,7 @@
 
 - 🤖 Front-end & back-end(kinda) **dev.**
 
-- 🙋‍♂️ Currently in **College.**
+- 🙋‍♂️ Currently in **HighSchool**
 
 - 🙈 Using **arduino.std**
 
