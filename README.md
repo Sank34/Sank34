@@ -47,6 +47,6 @@ In my free time, I also take on freelance work, primarily building websites, edu
 
 <div align="center">
 
-**See ya!**
+**See ya!** 🐢
 
 </div>
