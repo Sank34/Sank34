@@ -1,4 +1,4 @@
-# 👨‍💻 ANDREI LASCU (Sanke)
+# 👨‍💻 Andrei (Sanke)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sank34&color=blue&style=flat-square)](https://github.com/Sank34)
 
