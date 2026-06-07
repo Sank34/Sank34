@@ -39,11 +39,7 @@ Web development, AI/ML applications, robotics, and educational technology.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrei.lascu.info@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrei-lascu-ba561a371) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sank34)
 
-### ✍️ Blog & Content
-
-### 💖 Support My Work
-
-### ⚡ Fun Fact
+### ⚡ Fun Facts (about me :) )
 
 In my free time, I also take on freelance work, primarily building websites, educational platforms, portfolios, and practical digital tools for individuals, teams, and organizations.
 
@@ -51,6 +47,6 @@ In my free time, I also take on freelance work, primarily building websites, edu
 
 <div align="center">
 
-**Thanks for visiting!** 🙏
+**See ya!**
 
 </div>
